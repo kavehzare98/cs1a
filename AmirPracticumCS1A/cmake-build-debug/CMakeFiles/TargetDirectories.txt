@@ -1,0 +1,3 @@
+/Users/kavehz98/CLionProjects/AmirPracticumCS1A/cmake-build-debug/CMakeFiles/AmirPracticumCS1A.dir
+/Users/kavehz98/CLionProjects/AmirPracticumCS1A/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kavehz98/CLionProjects/AmirPracticumCS1A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
